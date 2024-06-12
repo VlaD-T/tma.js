@@ -23,7 +23,7 @@ pnpm i @tma.js/init-data-node
 ```
 
 ```bash [npm]
-npm i @tma.js/init-data-node
+npm i "@tma.js/init-data-node"
 ```
 
 ```bash [yarn]
